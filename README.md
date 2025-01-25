@@ -1,0 +1,1 @@
+This project develops a Convolutional Neural Network (CNN) model to classify images of plastic waste into categories like PET bottles, plastic bags, and food wrappers. The goal is to assist in waste management and recycling efforts using AI.
